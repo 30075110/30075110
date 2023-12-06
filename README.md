@@ -1,37 +1,32 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain">
- <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain">
- <img alt="Greeting image" src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain">
-</picture>
+<div id="header" aliign = "center"
+<img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="100"/>
+<h1>
+ 👋 Hi, I’m @Z
+ <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"
+</h1>
+</div>
+-------
+ 
+ # About me : 
+🌻 About me: I am a computer science student at University of South Wales
+  <img scr="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30">
 
-# About me
-- 👋 Hi, I’m Ziyan Lin
-- 👀 I’m interested in watching films 
-- 🌱 I’m currently learning Computer Science
-- 💞️ What I am learning
+  <br>
+  
+📍 I am from China.<img scr="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30">
+<br>
+👀 I’m interested in design. <img scr="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30">
+<br>
+💞️ What I am learning
   | Rank |      Language      |
   |-----:|--------------------|
   |   1  |         c++        |
   |   2  |        Python      |
   |   3  |         Java       |
 
-- 📫 How to reach me: Ziyan0128ui@gmail.com
+# My contact information
+- 📫 How to reach me: wwwwi@gmail.com
 
-<!---
-30075110/30075110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<details>
-<summary>My top THINGS-TO-RANK</summary>
 
-YOUR TABLE
 
-</details>
----
-> If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
-
-## About me
-
-<!-- TO DO: add more details about me later -->
