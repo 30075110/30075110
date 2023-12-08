@@ -1,7 +1,7 @@
 <div id="header" align = "center">
  <img src="https://www.bing.com/th/id/OGC.93f23cf9105911af1a0cd271e084cb6e?pid=1.7&rurl=https%3a%2f%2fmedia3.giphy.com%2fmedia%2fxT0GqdYU6eAkK559Ha%2fgiphy.gif&ehk=cNVmNa8yFmTE8rpyNozrcejrYyhlsyKBKP%2bqzTDhowE%3d" width="2000" height="300"/>
  
- # <p align="center"> ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱  Hi, I am Ziyan Lin  ꒰ᜊ•͈⌔•͈ᜊ꒱</p>
+ # <p align="center"> ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱  Hi, I am Ziyan Lin  ꒰ᜊ• ·̫ •ᜊ꒱</p>
 ## <p align="center">   A passionate coding learner from China   ·͜·♡  </p>
 </div>
 
