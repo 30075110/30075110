@@ -25,7 +25,7 @@
 <br>
 
 ##  My Skills: 🍒   >ᴗ<✧       
-
+<div <div id="header" align = "left">
 
   | Rank |      Language      |
   |-----:|--------------------|
@@ -36,11 +36,19 @@
   |   5  |         HTML       |
   
  <div id="header" align = "right">
- <img src=https://media1.tenor.com/m/rr7G3LuM1CsAAAAC/fpcheer-ftopcheer.gif"" width="100"/>
+ <img src="https://media1.tenor.com/m/rr7G3LuM1CsAAAAC/fpcheer-ftopcheer.gif" width="100"/>
 </div>
-
 <br>
 
+
+## My hobbies:
+- I like watching films.
+  
+- I like listening to music.
+  
+- I am a big fun of watching educational YouTube videoes.
+
+<br>
 
 ## Recent projects completed: ✌︎︎• ◡•𝕪𝕖𝕖𝕖  
 
