@@ -1,10 +1,10 @@
 <div id="header" align = "center">
- <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="100"/>
+ <img src=https://media1.tenor.com/m/rr7G3LuM1CsAAAAC/fpcheer-ftopcheer.gif"" width="100"/>
  
  # <p align="center">𖤣𖥧𖥣｡𖤣𖥧𖥣｡Hi, I am Ziyan Lin𖤣𖥧𖥣｡𖤣𖥧𖥣｡𖤣</p>
 ## <p align="center">A passionate coding learner from China</p>
 <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
-</h1>
+
 </div>
 --------
 
@@ -16,8 +16,9 @@
   <br>
 
 # What I am doing: ꒰(๑•̌.•̑๑)ˀ̣ˀ̣
-- I am learning C++ and R studio language <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
-- I am studying *computer science* at **University of South Wales** <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
+- I am learning C++ and R studio language <img src="https://th.bing.com/th/id/OIP._Mq1T1IJe6cw14lre2cBzgHaE8?w=294&h=196&c=7&r=0&o=5&pid=1.7" width="50"/> <img src="https://th.bing.com/th/id/OIP.X1mk-WBpfa3RQ1tx68OGdAAAAA?rs=1&pid=ImgDetMain" width="30"/>
+
+- I am studying **computer science** at **University of South Wales** <img src="https://www.unibridgedirect.com/wp-content/uploads/2020/07/university_of_south_wales.jpg" width="70"/>
 
 <br>
 
@@ -31,9 +32,13 @@
   |   3  |         C++        |
   |   4  |       R studio     |
   |   5  |         HTML       |
-  <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
+  
+ <div id="header" align = "right">
+ <img src=https://media1.tenor.com/m/rr7G3LuM1CsAAAAC/fpcheer-ftopcheer.gif"" width="100"/>
+</div>
 
 <br>
+
 
 ## Recent projects completed: ✌︎︎• ◡•𝕪𝕖𝕖𝕖  
 
@@ -41,7 +46,9 @@
 I developed a simple ticket purchase system that enables users to effortlessly browse available events, select the desired number of tickets,and provide total price for them, which provides a friendly experience for the users.
 
 - Shiny Dashboard for Netflix Data Exploration:
-I designed and implemented an interactive Shiny dashboard for exploring Netflix data easier. 
+I designed and implemented an interactive Shiny dashboard for exploring Netflix data easier.
+
+My project link:
 
 <br>
 
