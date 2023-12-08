@@ -56,11 +56,11 @@ I designed and implemented an interactive Shiny dashboard for exploring Netflix 
 <br>
 
 # My contact information 🍞 'ㅅ' 🍞
-- GMAIL:ziyan0128ui@gmail.com <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
+- GMAIL:ziyan0128ui@gmail.com <img src="https://th.bing.com/th/id/OIP.Q6NPJynIMa4eKVwDsp63QAHaHa?w=174&h=180&c=7&r=0&o=5&pid=1.7" width="40px"/>
 
-- Wechat: .ElᴗiauK <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
+- Wechat: .ElᴗiauK  <img src="https://th.bing.com/th/id/OIP.ehJjYQlam5PzLzG07sH-fQHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7" width="30px"/>
 
-- Outlook: 30075110@students.southwales.ac.uk <img src="https://th.bing.com/th/id/OIP.6HDpc41neGWC8p3bOfHwjgHaFP?rs=1&pid=ImgDetMain" width="30px"/>
+- Outlook: 30075110@students.southwales.ac.uk <img src="https://th.bing.com/th/id/OIP.PIkL7h_S29JN7rI3zbfpYgHaHa?w=162&h=180&c=7&r=0&o=5&pid=1.7" width="30px"/>
 
 
 
