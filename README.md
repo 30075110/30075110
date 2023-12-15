@@ -56,7 +56,7 @@
 I developed a simple ticket purchase system that enables users to effortlessly browse available events, select the desired number of tickets,and provide total price for them.
 
 - Shiny Dashboard for Netflix Data Exploration:
-I designed and implemented an interactive Shiny dashboard for exploring Netflix data easier.
+I designed an interactive Shiny dashboard for exploring Netflix data easier.
 
 **My project link:https://github.com/30075110/30075110/projects?query=is%3Aopen**
 
